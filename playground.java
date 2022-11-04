@@ -1,5 +1,7 @@
 class Playground{  
     public static void main(String args[]){  
-     System.out.println("First Java!");  
+        String name;
+        name = "Minhaj";
+     System.out.println(name);  
     }  
 }
