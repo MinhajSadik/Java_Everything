@@ -1,7 +1,9 @@
 class Playground{  
+    static int age;
     public static void main(String args[]){  
         String name;
         name = "Minhaj";
-     System.out.println(name);  
+        int age = 24;
+        System.out.println(name);
     }  
 }
